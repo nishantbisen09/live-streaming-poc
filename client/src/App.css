@@ -323,9 +323,9 @@ a {
 }
 
 .video-participant {
-  width: 33.3%;
-  height: 50%;
-  position: relative;
+  width: 400px;
+  height: 400px;
+  border: 1px solid black;
 }
 .video-participant img {
   width: 100%;
